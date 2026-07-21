@@ -1,0 +1,4 @@
+Python (версии 3.8 или выше)
+Библиотека Pandas
+Библиотека Streamlit
+Библиотека Matplotlib
